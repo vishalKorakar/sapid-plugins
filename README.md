@@ -1,5 +1,6 @@
 # sapid-plugins
 This is a repository dedicated to all the plugins to sapid-serve and sapid-manager.
+
 Plugin-1:
 The plugins available are for connecting sapid-serve with POS (point of sales) system like clover, toast etc.
 
